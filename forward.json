@@ -1,0 +1,11 @@
+[
+  {
+    "action": "connect",
+    "endpoint": [
+      {
+        "type": "sip",
+        "uri": "447451270512@kolapo-co-admin.sip.vonage.com"
+      }
+    ]
+  }
+]

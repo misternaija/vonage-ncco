@@ -3,8 +3,8 @@
     "action": "connect",
     "endpoint": [
       {
-        "type": "phone",
-        "uri": "+447708059497"
+        "type": "sip",
+        "uri": "kolapo-co-admin@kolapo-co-admin.sip-eu.vonage.com"
       }
     ]
   }

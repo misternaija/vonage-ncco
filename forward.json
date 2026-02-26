@@ -4,7 +4,7 @@
     "endpoint": [
       {
         "type": "sip",
-        "uri": "kolapo-co-admin@kolapo-co-admin.sip-eu.vonage.com"
+        "uri": "sip:kolapo-co-admin@kolapo-co-admin.sip-eu.vonage.com:5061;transport=tls"
       }
     ]
   }
